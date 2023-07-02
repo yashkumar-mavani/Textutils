@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yashkumar-mavani/Textutils/static/css/main.198f9aa8.css",
+    "main.js": "/yashkumar-mavani/Textutils/static/js/main.cdb42c7e.js",
+    "static/js/787.719ec76d.chunk.js": "/yashkumar-mavani/Textutils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/yashkumar-mavani/Textutils/index.html",
+    "main.198f9aa8.css.map": "/yashkumar-mavani/Textutils/static/css/main.198f9aa8.css.map",
+    "main.cdb42c7e.js.map": "/yashkumar-mavani/Textutils/static/js/main.cdb42c7e.js.map",
+    "787.719ec76d.chunk.js.map": "/yashkumar-mavani/Textutils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198f9aa8.css",
+    "static/js/main.cdb42c7e.js"
+  ]
+}
